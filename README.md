@@ -1,3 +1,7 @@
+# To view the live site click on this [link](https://ilyestirech.github.io/BBC-Placement/)
+
+You may build it and run it locally as described below.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
