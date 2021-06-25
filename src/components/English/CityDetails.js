@@ -28,7 +28,7 @@ return (
             <h1>{cityObject.name}</h1>
             <h2>Cigarettes smoked per day: <span>{cityObject.cigg}</span></h2>
             <h2>The AQI: <span>{cityObject.aqi}</span></h2>
-            <Link to='/'>
+            <Link to='/BBC-Placement'>
             <Button className='button' size="lg" variant="info">
               Back To Home
             </Button>

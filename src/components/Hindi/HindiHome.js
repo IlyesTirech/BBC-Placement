@@ -32,7 +32,7 @@ const HindiHome = () => {
 
     return (
         <CityStyled variants = {fadeIn} initial='hidden' animate="show">
-            <Link to='/'>
+            <Link to='/BBC-Placement'>
                 <h4>English Translation</h4>
             </Link>
             <Container >

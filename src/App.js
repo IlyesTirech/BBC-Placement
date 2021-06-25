@@ -11,7 +11,7 @@ const App = () => {
     <>
     <GlobalStyles/>
       <Switch>
-        <Route exact path='/'>
+        <Route exact path='/BBC-Placement'>
       <EnglishHome/>
       </Route>
       <Route exact path="/details/:id">
