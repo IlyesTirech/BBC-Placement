@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/BBC-Placement/static/js/main.fd9806d8.chunk.js",
-    "main.js.map": "/BBC-Placement/static/js/main.fd9806d8.chunk.js.map",
+    "main.js": "/BBC-Placement/static/js/main.8435be63.chunk.js",
+    "main.js.map": "/BBC-Placement/static/js/main.8435be63.chunk.js.map",
     "runtime-main.js": "/BBC-Placement/static/js/runtime-main.0cb44cef.js",
     "runtime-main.js.map": "/BBC-Placement/static/js/runtime-main.0cb44cef.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/BBC-Placement/static/css/2.4c97ca4f.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0cb44cef.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.4c9542da.chunk.js",
-    "static/js/main.fd9806d8.chunk.js"
+    "static/js/main.8435be63.chunk.js"
   ]
 }
