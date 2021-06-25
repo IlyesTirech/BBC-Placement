@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.69f24b69.chunk.js",
-    "main.js.map": "/static/js/main.69f24b69.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.511e0fa5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.511e0fa5.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.0716670e.chunk.js": "/static/js/2.0716670e.chunk.js",
-    "static/js/2.0716670e.chunk.js.map": "/static/js/2.0716670e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/js/2.0716670e.chunk.js.LICENSE.txt": "/static/js/2.0716670e.chunk.js.LICENSE.txt"
+    "main.js": "/BBC-Placement/static/js/main.fd9806d8.chunk.js",
+    "main.js.map": "/BBC-Placement/static/js/main.fd9806d8.chunk.js.map",
+    "runtime-main.js": "/BBC-Placement/static/js/runtime-main.0cb44cef.js",
+    "runtime-main.js.map": "/BBC-Placement/static/js/runtime-main.0cb44cef.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/BBC-Placement/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4c9542da.chunk.js": "/BBC-Placement/static/js/2.4c9542da.chunk.js",
+    "static/js/2.4c9542da.chunk.js.map": "/BBC-Placement/static/js/2.4c9542da.chunk.js.map",
+    "index.html": "/BBC-Placement/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/BBC-Placement/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.4c9542da.chunk.js.LICENSE.txt": "/BBC-Placement/static/js/2.4c9542da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.511e0fa5.js",
+    "static/js/runtime-main.0cb44cef.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.0716670e.chunk.js",
-    "static/js/main.69f24b69.chunk.js"
+    "static/js/2.4c9542da.chunk.js",
+    "static/js/main.fd9806d8.chunk.js"
   ]
 }
