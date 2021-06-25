@@ -1,5 +1,4 @@
-import React, { useEffect } from 'react'
-import data from './data/english.json'
+import React from 'react'
 import { Switch, Route } from "react-router-dom";
 import EnglishHome from './components/English/EnglishHome'
 import CityDetails from './components/English/CityDetails';

@@ -8,7 +8,7 @@ import {motion} from 'framer-motion'
 import {fadeIn} from '../../animations'
 const CityHindiDetails = () => {
 
-    const { formattedHindiData, cityHindiFinder } = useContext(CityContext);
+    const {cityHindiFinder } = useContext(CityContext);
     const location = useLocation();
     const id = location.pathname.split("/")[3];
     const cityHindiObject =  cityHindiFinder(id);
