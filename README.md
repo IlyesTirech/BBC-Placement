@@ -1,8 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## You can view the live application [here](https://ilyestirech.github.io/BBC-Placement/)
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+###`npm install`
+
+Installs any dependencies needed for the application
 
 ### `npm start`
 
