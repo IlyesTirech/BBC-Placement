@@ -45,9 +45,7 @@ const Home = () => {
                         </div> 
                     </Col>
                 </Row>
-                {/* <div>
-                    <input type="search" placeholder='Search for your city...' onChange={onSearchChange} />
-                </div> */}
+              
                     <Form.Control type ="search" placeholder='Search for your city...' variant='outline-dark' onChange={onSearchChange}/>
                 <Row className="justify-content-md-center">
                         {   searchResults.map(city => (
